@@ -1,6 +1,3 @@
-import products
-
-
 class Store:
 
     def __init__(self, products):
